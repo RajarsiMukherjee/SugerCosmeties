@@ -31,7 +31,7 @@
   <h4>Sign-in/Sign-up.<h4>
   <h4>Order and payment system.<h4>
 	
-	   <img src="https://raw.githubusercontent.com/RajarsiMukherjee/youtube-clone/main/sugarCos.png" alt="project pik">
+	   
 								
 <h1>Team members and contributors<h1>
 	<h3>Rajarsi Mukerjee<h3>
@@ -43,7 +43,7 @@
 			<h3>Anand Patil<h3>
 		  <h3>Jaismita Sau<h3>
 		 
-			
+		  <img src="https://raw.githubusercontent.com/RajarsiMukherjee/youtube-clone/main/sugarCos.png" alt="project pik">	
 
 
 
