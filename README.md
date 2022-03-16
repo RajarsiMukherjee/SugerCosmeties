@@ -1,4 +1,4 @@
-# SugerCosmeties
+ 
 
 <h1>SugerCosmeties(Clone)<h1>
 <h4>Project Clone of https://in.sugarcosmetics.com/ site<h4>
