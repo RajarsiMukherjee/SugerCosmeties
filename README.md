@@ -42,8 +42,7 @@
 		<h5>*GitHub: https://github.com/sac1010<h5>
 			<h3>Anand Patil<h3>
 		  <h3>Jaismita Sau<h3>
-		 
-		  <img src="https://raw.githubusercontent.com/RajarsiMukherjee/youtube-clone/main/sugarCos.png" alt="project pik">	
+		  	
 
 
 
